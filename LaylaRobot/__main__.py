@@ -367,7 +367,7 @@ def layla_about_callback(update, context):
                  \n\n_Lyci's licensed under the GNU General Public License v3.0_
                  \n❍ Kid Bots @kidbots
                  \n❍ Support Group @tzkid
-                 \n❍ Assistant @LayciAssistant.
+                 \n❍ Assistant @LyciAssistant.
                  \nHere is the [💾Repository](https://t.me/kidbots).
                  \n\nIf you have any question about Lyci, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
